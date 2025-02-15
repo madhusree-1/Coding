@@ -1,9 +1,9 @@
-//first let us make sorted and unsorted array
-//	//insert the first elemnet from unsorted array to sorted array 
-//	//by giving temp to store the first elemnets in unsorted array
-//	//j is sorted array and i is unsorted array
-//	//time complexity-->O(n^2)v
-//	//space complexity --->O(1)
+	//first let us make sorted and unsorted array
+	//insert the first elemnet from unsorted array to sorted array 
+	//by giving temp to store the first elemnets in unsorted array
+	//j is sorted array and i is unsorted array
+	//time complexity-->O(n^2)
+	//space complexity --->O(1)
 #include<stdio.h>
 void InsertionSort(int A[],int n){
 	int i,j;//intilazing the indexes of unsorted and sorted array
