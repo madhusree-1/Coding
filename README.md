@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/madhusree-1/Coding/tree/master/0283-move-zeroes) |
 | [1580-shuffle-the-array](https://github.com/madhusree-1/Coding/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/madhusree-1/Coding/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/madhusree-1/Coding/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/madhusree-1/Coding/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/madhusree-1/Coding/tree/master/3194-find-words-containing-character) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
