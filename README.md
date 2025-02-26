@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/madhusree-1/Coding/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/madhusree-1/Coding/tree/master/0283-move-zeroes) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/madhusree-1/Coding/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/madhusree-1/Coding/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
