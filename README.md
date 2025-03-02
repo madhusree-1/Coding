@@ -15,6 +15,7 @@
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/madhusree-1/Coding/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/madhusree-1/Coding/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhusree-1/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/madhusree-1/Coding/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhusree-1/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/madhusree-1/Coding/tree/master/3194-find-words-containing-character) |
@@ -28,6 +29,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/madhusree-1/Coding/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/madhusree-1/Coding/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhusree-1/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhusree-1/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhusree-1/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
