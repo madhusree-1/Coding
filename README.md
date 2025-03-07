@@ -66,6 +66,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhusree-1/Coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2556-convert-the-temperature](https://github.com/madhusree-1/Coding/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/madhusree-1/Coding/tree/master/2610-closest-prime-numbers-in-range) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/madhusree-1/Coding/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhusree-1/Coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhusree-1/Coding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Counting
