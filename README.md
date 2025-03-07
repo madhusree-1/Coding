@@ -29,6 +29,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhusree-1/Coding/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/madhusree-1/Coding/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/madhusree-1/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/madhusree-1/Coding/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhusree-1/Coding/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/madhusree-1/Coding/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/madhusree-1/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhusree-1/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhusree-1/Coding/tree/master/3227-find-missing-and-repeated-values) |
@@ -91,6 +93,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhusree-1/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/madhusree-1/Coding/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/madhusree-1/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
