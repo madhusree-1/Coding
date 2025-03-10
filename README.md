@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhusree-1/Coding/tree/master/0029-divide-two-integers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/madhusree-1/Coding/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhusree-1/Coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhusree-1/Coding/tree/master/0029-divide-two-integers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
 | ------- |
