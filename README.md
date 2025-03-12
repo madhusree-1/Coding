@@ -10,6 +10,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/madhusree-1/Coding/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/madhusree-1/Coding/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/madhusree-1/Coding/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/madhusree-1/Coding/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
@@ -46,6 +47,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/madhusree-1/Coding/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhusree-1/Coding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhusree-1/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
@@ -96,6 +98,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhusree-1/Coding/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
