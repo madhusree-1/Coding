@@ -20,6 +20,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/madhusree-1/Coding/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhusree-1/Coding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhusree-1/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/madhusree-1/Coding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/madhusree-1/Coding/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhusree-1/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/madhusree-1/Coding/tree/master/3194-find-words-containing-character) |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/madhusree-1/Coding/tree/master/2507-number-of-common-factors) |
+## Greedy
+|  |
+| ------- |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/madhusree-1/Coding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
