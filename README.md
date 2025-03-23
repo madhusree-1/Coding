@@ -30,6 +30,7 @@
 | [3226-minimum-number-game](https://github.com/madhusree-1/Coding/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhusree-1/Coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/madhusree-1/Coding/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhusree-1/Coding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhusree-1/Coding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/madhusree-1/Coding/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhusree-1/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -46,6 +47,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/madhusree-1/Coding/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhusree-1/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhusree-1/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhusree-1/Coding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhusree-1/Coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhusree-1/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/madhusree-1/Coding/tree/master/3226-minimum-number-game) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhusree-1/Coding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
