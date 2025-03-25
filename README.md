@@ -13,6 +13,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/madhusree-1/Coding/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/madhusree-1/Coding/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/madhusree-1/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhusree-1/Coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhusree-1/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -164,5 +166,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/madhusree-1/Coding/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
