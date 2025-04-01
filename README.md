@@ -27,6 +27,7 @@
 | [2058-concatenation-of-array](https://github.com/madhusree-1/Coding/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhusree-1/Coding/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhusree-1/Coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2122-count-special-quadruplets](https://github.com/madhusree-1/Coding/tree/master/2122-count-special-quadruplets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/madhusree-1/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhusree-1/Coding/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhusree-1/Coding/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -95,6 +96,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhusree-1/Coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2122-count-special-quadruplets](https://github.com/madhusree-1/Coding/tree/master/2122-count-special-quadruplets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhusree-1/Coding/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhusree-1/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -191,6 +193,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/madhusree-1/Coding/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/madhusree-1/Coding/tree/master/2083-three-divisors) |
+| [2122-count-special-quadruplets](https://github.com/madhusree-1/Coding/tree/master/2122-count-special-quadruplets) |
 | [2507-number-of-common-factors](https://github.com/madhusree-1/Coding/tree/master/2507-number-of-common-factors) |
 ## Greedy
 |  |
