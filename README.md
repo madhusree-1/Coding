@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/madhusree-1/Coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/madhusree-1/Coding/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/madhusree-1/Coding/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/madhusree-1/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhusree-1/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/madhusree-1/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0540-single-element-in-a-sorted-array) |
