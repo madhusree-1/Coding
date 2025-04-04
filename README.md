@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhusree-1/Coding/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/madhusree-1/Coding/tree/master/0792-binary-search) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -98,6 +99,7 @@
 | [0141-linked-list-cycle](https://github.com/madhusree-1/Coding/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhusree-1/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhusree-1/Coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
