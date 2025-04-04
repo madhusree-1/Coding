@@ -69,6 +69,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/madhusree-1/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/madhusree-1/Coding/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/madhusree-1/Coding/tree/master/0633-sum-of-square-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/madhusree-1/Coding/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhusree-1/Coding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhusree-1/Coding/tree/master/2442-number-of-arithmetic-triplets) |
@@ -84,6 +85,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/madhusree-1/Coding/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/madhusree-1/Coding/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhusree-1/Coding/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -120,6 +122,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhusree-1/Coding/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/madhusree-1/Coding/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/madhusree-1/Coding/tree/master/0728-self-dividing-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
