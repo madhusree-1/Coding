@@ -140,6 +140,7 @@
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/madhusree-1/Coding/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhusree-1/Coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/madhusree-1/Coding/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/madhusree-1/Coding/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhusree-1/Coding/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/madhusree-1/Coding/tree/master/2238-a-number-after-a-double-reversal) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhusree-1/Coding/tree/master/0021-merge-two-sorted-lists) |
+| [2050-count-good-numbers](https://github.com/madhusree-1/Coding/tree/master/2050-count-good-numbers) |
 ## Number Theory
 |  |
 | ------- |
