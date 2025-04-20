@@ -274,6 +274,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/madhusree-1/Coding/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
@@ -283,4 +284,16 @@
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/madhusree-1/Coding/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
