@@ -275,6 +275,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/madhusree-1/Coding/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
@@ -288,12 +289,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
