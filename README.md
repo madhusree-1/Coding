@@ -22,6 +22,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1127-last-stone-weight](https://github.com/madhusree-1/Coding/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/madhusree-1/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/madhusree-1/Coding/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -139,6 +140,7 @@
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/madhusree-1/Coding/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/madhusree-1/Coding/tree/master/0728-self-dividing-numbers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/madhusree-1/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/madhusree-1/Coding/tree/master/1683-maximum-number-of-coins-you-can-get) |
