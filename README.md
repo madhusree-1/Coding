@@ -68,6 +68,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhusree-1/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/madhusree-1/Coding/tree/master/3582-find-indices-of-stable-mountains) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhusree-1/Coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/madhusree-1/Coding/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
 | ------- |
