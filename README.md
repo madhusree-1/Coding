@@ -139,6 +139,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhusree-1/Coding/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/madhusree-1/Coding/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/madhusree-1/Coding/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/madhusree-1/Coding/tree/master/0728-self-dividing-numbers) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhusree-1/Coding/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/madhusree-1/Coding/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/madhusree-1/Coding/tree/master/2050-count-good-numbers) |
 ## Number Theory
 |  |
