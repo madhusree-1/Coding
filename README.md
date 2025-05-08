@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/madhusree-1/Coding/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/madhusree-1/Coding/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/madhusree-1/Coding/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/madhusree-1/Coding/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhusree-1/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhusree-1/Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -251,6 +252,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/madhusree-1/Coding/tree/master/0055-jump-game) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhusree-1/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/madhusree-1/Coding/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/madhusree-1/Coding/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/madhusree-1/Coding/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/madhusree-1/Coding/tree/master/0055-jump-game) |
 | [0416-partition-equal-subset-sum](https://github.com/madhusree-1/Coding/tree/master/0416-partition-equal-subset-sum) |
 ## Stack
 |  |
