@@ -26,6 +26,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhusree-1/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/madhusree-1/Coding/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
+| [1293-three-consecutive-odds](https://github.com/madhusree-1/Coding/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhusree-1/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
