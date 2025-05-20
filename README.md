@@ -74,6 +74,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/madhusree-1/Coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhusree-1/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/madhusree-1/Coding/tree/master/3582-find-indices-of-stable-mountains) |
+| [3639-zero-array-transformation-i](https://github.com/madhusree-1/Coding/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhusree-1/Coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/madhusree-1/Coding/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/madhusree-1/Coding/tree/master/2714-left-and-right-sum-differences) |
+| [3639-zero-array-transformation-i](https://github.com/madhusree-1/Coding/tree/master/3639-zero-array-transformation-i) |
 ## Dynamic Programming
 |  |
 | ------- |
