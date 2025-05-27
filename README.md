@@ -235,11 +235,13 @@
 | [0021-merge-two-sorted-lists](https://github.com/madhusree-1/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/madhusree-1/Coding/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhusree-1/Coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/madhusree-1/Coding/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhusree-1/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/madhusree-1/Coding/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/madhusree-1/Coding/tree/master/0203-remove-linked-list-elements) |
 | [2050-count-good-numbers](https://github.com/madhusree-1/Coding/tree/master/2050-count-good-numbers) |
 ## Number Theory
 |  |
