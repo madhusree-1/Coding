@@ -152,6 +152,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhusree-1/Coding/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhusree-1/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhusree-1/Coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhusree-1/Coding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -195,11 +196,13 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhusree-1/Coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhusree-1/Coding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhusree-1/Coding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3194-find-words-containing-character](https://github.com/madhusree-1/Coding/tree/master/3194-find-words-containing-character) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhusree-1/Coding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
