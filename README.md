@@ -160,6 +160,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhusree-1/Coding/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/madhusree-1/Coding/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/madhusree-1/Coding/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/madhusree-1/Coding/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/madhusree-1/Coding/tree/master/0728-self-dividing-numbers) |
