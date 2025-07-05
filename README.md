@@ -32,6 +32,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhusree-1/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/madhusree-1/Coding/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/madhusree-1/Coding/tree/master/1580-shuffle-the-array) |
@@ -142,6 +143,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/madhusree-1/Coding/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhusree-1/Coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/madhusree-1/Coding/tree/master/2122-count-special-quadruplets) |
@@ -196,6 +198,7 @@
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhusree-1/Coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
