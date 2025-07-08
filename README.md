@@ -129,6 +129,7 @@
 | [2048-build-array-from-permutation](https://github.com/madhusree-1/Coding/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/madhusree-1/Coding/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhusree-1/Coding/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/madhusree-1/Coding/tree/master/2551-apply-operations-to-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/madhusree-1/Coding/tree/master/2679-count-distinct-numbers-on-board) |
 | [3226-minimum-number-game](https://github.com/madhusree-1/Coding/tree/master/3226-minimum-number-game) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhusree-1/Coding/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/madhusree-1/Coding/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhusree-1/Coding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
@@ -348,6 +350,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/madhusree-1/Coding/tree/master/0155-min-stack) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
