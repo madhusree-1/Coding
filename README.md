@@ -141,6 +141,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madhusree-1/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/madhusree-1/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/madhusree-1/Coding/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhusree-1/Coding/tree/master/0160-intersection-of-two-linked-lists) |
@@ -214,6 +215,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madhusree-1/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/madhusree-1/Coding/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
@@ -413,4 +415,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/madhusree-1/Coding/tree/master/0155-min-stack) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madhusree-1/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
