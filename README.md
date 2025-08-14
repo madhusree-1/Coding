@@ -65,6 +65,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhusree-1/Coding/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/madhusree-1/Coding/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhusree-1/Coding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/madhusree-1/Coding/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2679-count-distinct-numbers-on-board](https://github.com/madhusree-1/Coding/tree/master/2679-count-distinct-numbers-on-board) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhusree-1/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/madhusree-1/Coding/tree/master/2714-left-and-right-sum-differences) |
@@ -248,6 +249,7 @@
 | [0073-set-matrix-zeroes](https://github.com/madhusree-1/Coding/tree/master/0073-set-matrix-zeroes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/madhusree-1/Coding/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhusree-1/Coding/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -269,6 +271,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhusree-1/Coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhusree-1/Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhusree-1/Coding/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/madhusree-1/Coding/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/madhusree-1/Coding/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhusree-1/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/madhusree-1/Coding/tree/master/3226-minimum-number-game) |
