@@ -156,6 +156,7 @@
 | [0073-set-matrix-zeroes](https://github.com/madhusree-1/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/madhusree-1/Coding/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhusree-1/Coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -233,6 +234,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhusree-1/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/madhusree-1/Coding/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhusree-1/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhusree-1/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -253,6 +255,7 @@
 | [0075-sort-colors](https://github.com/madhusree-1/Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhusree-1/Coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
