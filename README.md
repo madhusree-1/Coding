@@ -20,6 +20,7 @@
 | [0162-find-peak-element](https://github.com/madhusree-1/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhusree-1/Coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/madhusree-1/Coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/madhusree-1/Coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/madhusree-1/Coding/tree/master/0287-find-the-duplicate-number) |
@@ -373,6 +374,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/madhusree-1/Coding/tree/master/0238-product-of-array-except-self) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhusree-1/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/madhusree-1/Coding/tree/master/2714-left-and-right-sum-differences) |
 | [3639-zero-array-transformation-i](https://github.com/madhusree-1/Coding/tree/master/3639-zero-array-transformation-i) |
