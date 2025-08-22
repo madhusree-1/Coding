@@ -460,6 +460,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/madhusree-1/Coding/tree/master/0176-second-highest-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/madhusree-1/Coding/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Bucket Sort
 |  |
