@@ -27,6 +27,7 @@
 | [0287-find-the-duplicate-number](https://github.com/madhusree-1/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/madhusree-1/Coding/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/madhusree-1/Coding/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhusree-1/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -163,6 +164,7 @@
 | [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/madhusree-1/Coding/tree/master/1500-count-largest-group) |
@@ -403,12 +405,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/madhusree-1/Coding/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/madhusree-1/Coding/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
 ## Game Theory
 |  |
 | ------- |
