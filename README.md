@@ -29,6 +29,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/madhusree-1/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/madhusree-1/Coding/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhusree-1/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/madhusree-1/Coding/tree/master/0907-koko-eating-bananas) |
@@ -165,6 +166,7 @@
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/madhusree-1/Coding/tree/master/1500-count-largest-group) |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhusree-1/Coding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
@@ -268,6 +271,7 @@
 | [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -344,6 +348,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/madhusree-1/Coding/tree/master/0055-jump-game) |
+| [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhusree-1/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhusree-1/Coding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/madhusree-1/Coding/tree/master/1448-maximum-69-number) |
@@ -365,6 +370,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhusree-1/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/madhusree-1/Coding/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/madhusree-1/Coding/tree/master/3226-minimum-number-game) |
