@@ -17,6 +17,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhusree-1/Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/madhusree-1/Coding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/madhusree-1/Coding/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/madhusree-1/Coding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/madhusree-1/Coding/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/madhusree-1/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/madhusree-1/Coding/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/madhusree-1/Coding/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhusree-1/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhusree-1/Coding/tree/master/1341-split-a-string-in-balanced-strings) |
