@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhusree-1/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/madhusree-1/Coding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/madhusree-1/Coding/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/madhusree-1/Coding/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/madhusree-1/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhusree-1/Coding/tree/master/0215-kth-largest-element-in-an-array) |
@@ -414,6 +415,7 @@
 | [0118-pascals-triangle](https://github.com/madhusree-1/Coding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/madhusree-1/Coding/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhusree-1/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/madhusree-1/Coding/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/madhusree-1/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/madhusree-1/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 ## Stack
