@@ -203,6 +203,7 @@
 | [0050-powx-n](https://github.com/madhusree-1/Coding/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/madhusree-1/Coding/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/madhusree-1/Coding/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/madhusree-1/Coding/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/madhusree-1/Coding/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/madhusree-1/Coding/tree/master/0830-largest-triangle-area) |
@@ -447,6 +448,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/madhusree-1/Coding/tree/master/0292-nim-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/madhusree-1/Coding/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Tree
 |  |
@@ -523,4 +525,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/madhusree-1/Coding/tree/master/0830-largest-triangle-area) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/madhusree-1/Coding/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
