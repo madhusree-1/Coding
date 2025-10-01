@@ -266,6 +266,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/madhusree-1/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/madhusree-1/Coding/tree/master/0443-string-compression) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhusree-1/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhusree-1/Coding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhusree-1/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -442,6 +443,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/madhusree-1/Coding/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhusree-1/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/madhusree-1/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
