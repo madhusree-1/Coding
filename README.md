@@ -195,6 +195,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhusree-1/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhusree-1/Coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhusree-1/Coding/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/madhusree-1/Coding/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhusree-1/Coding/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhusree-1/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhusree-1/Coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -276,6 +277,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/madhusree-1/Coding/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/madhusree-1/Coding/tree/master/3396-valid-word) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/madhusree-1/Coding/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhusree-1/Coding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
