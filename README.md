@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/madhusree-1/Coding/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhusree-1/Coding/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -110,6 +111,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/madhusree-1/Coding/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhusree-1/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madhusree-1/Coding/tree/master/0027-remove-element) |
@@ -376,6 +378,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/madhusree-1/Coding/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/madhusree-1/Coding/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/madhusree-1/Coding/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
