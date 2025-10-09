@@ -167,6 +167,7 @@
 | [2058-concatenation-of-array](https://github.com/madhusree-1/Coding/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhusree-1/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhusree-1/Coding/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/madhusree-1/Coding/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhusree-1/Coding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/madhusree-1/Coding/tree/master/2551-apply-operations-to-an-array) |
@@ -233,6 +234,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhusree-1/Coding/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/madhusree-1/Coding/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhusree-1/Coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/madhusree-1/Coding/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/madhusree-1/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhusree-1/Coding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/madhusree-1/Coding/tree/master/2507-number-of-common-factors) |
