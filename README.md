@@ -108,6 +108,7 @@
 | [3639-zero-array-transformation-i](https://github.com/madhusree-1/Coding/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhusree-1/Coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/madhusree-1/Coding/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/madhusree-1/Coding/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/madhusree-1/Coding/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/madhusree-1/Coding/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -256,6 +257,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/madhusree-1/Coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhusree-1/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/madhusree-1/Coding/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/madhusree-1/Coding/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Counting
 |  |
 | ------- |
@@ -436,6 +438,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhusree-1/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2714-left-and-right-sum-differences](https://github.com/madhusree-1/Coding/tree/master/2714-left-and-right-sum-differences) |
 | [3639-zero-array-transformation-i](https://github.com/madhusree-1/Coding/tree/master/3639-zero-array-transformation-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/madhusree-1/Coding/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
