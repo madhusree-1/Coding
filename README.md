@@ -242,6 +242,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhusree-1/Coding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/madhusree-1/Coding/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/madhusree-1/Coding/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/madhusree-1/Coding/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/madhusree-1/Coding/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/madhusree-1/Coding/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/madhusree-1/Coding/tree/master/2630-alternating-digit-sum) |
@@ -442,6 +443,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/madhusree-1/Coding/tree/master/0238-product-of-array-except-self) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhusree-1/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2571-find-the-pivot-integer](https://github.com/madhusree-1/Coding/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/madhusree-1/Coding/tree/master/2714-left-and-right-sum-differences) |
 | [3639-zero-array-transformation-i](https://github.com/madhusree-1/Coding/tree/master/3639-zero-array-transformation-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/madhusree-1/Coding/tree/master/3704-count-partitions-with-even-sum-difference) |
