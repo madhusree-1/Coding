@@ -286,6 +286,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/madhusree-1/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/madhusree-1/Coding/tree/master/0443-string-compression) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/madhusree-1/Coding/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0692-top-k-frequent-words](https://github.com/madhusree-1/Coding/tree/master/0692-top-k-frequent-words) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhusree-1/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
