@@ -295,6 +295,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhusree-1/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/madhusree-1/Coding/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/madhusree-1/Coding/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/madhusree-1/Coding/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhusree-1/Coding/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhusree-1/Coding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
