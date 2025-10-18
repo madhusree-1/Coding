@@ -225,6 +225,7 @@
 | [0728-self-dividing-numbers](https://github.com/madhusree-1/Coding/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/madhusree-1/Coding/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/madhusree-1/Coding/tree/master/0909-stone-game) |
+| [1086-divisor-game](https://github.com/madhusree-1/Coding/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhusree-1/Coding/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhusree-1/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -469,6 +470,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/madhusree-1/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0909-stone-game](https://github.com/madhusree-1/Coding/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/madhusree-1/Coding/tree/master/0954-maximum-sum-circular-subarray) |
+| [1086-divisor-game](https://github.com/madhusree-1/Coding/tree/master/1086-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -494,6 +496,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/madhusree-1/Coding/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/madhusree-1/Coding/tree/master/0909-stone-game) |
+| [1086-divisor-game](https://github.com/madhusree-1/Coding/tree/master/1086-divisor-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/madhusree-1/Coding/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Tree
 |  |
@@ -576,6 +579,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhusree-1/Coding/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/madhusree-1/Coding/tree/master/1086-divisor-game) |
 ## Trie
 |  |
 | ------- |
