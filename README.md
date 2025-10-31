@@ -263,6 +263,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/madhusree-1/Coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhusree-1/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/madhusree-1/Coding/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/madhusree-1/Coding/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/madhusree-1/Coding/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Counting
 |  |
@@ -351,6 +352,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/madhusree-1/Coding/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/madhusree-1/Coding/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
 | ------- |
