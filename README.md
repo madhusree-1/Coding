@@ -72,6 +72,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/madhusree-1/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhusree-1/Coding/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhusree-1/Coding/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/madhusree-1/Coding/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/madhusree-1/Coding/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/madhusree-1/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
@@ -170,6 +171,7 @@
 | [2058-concatenation-of-array](https://github.com/madhusree-1/Coding/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhusree-1/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhusree-1/Coding/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/madhusree-1/Coding/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/madhusree-1/Coding/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/madhusree-1/Coding/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhusree-1/Coding/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -200,6 +202,7 @@
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhusree-1/Coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/madhusree-1/Coding/tree/master/2122-count-special-quadruplets) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/madhusree-1/Coding/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhusree-1/Coding/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhusree-1/Coding/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -329,6 +332,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/madhusree-1/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhusree-1/Coding/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhusree-1/Coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/madhusree-1/Coding/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/madhusree-1/Coding/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhusree-1/Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhusree-1/Coding/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
