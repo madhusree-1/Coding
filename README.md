@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/madhusree-1/Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/madhusree-1/Coding/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/madhusree-1/Coding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madhusree-1/Coding/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/madhusree-1/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/madhusree-1/Coding/tree/master/0075-sort-colors) |
@@ -166,6 +167,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/madhusree-1/Coding/tree/master/0054-spiral-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/madhusree-1/Coding/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/madhusree-1/Coding/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/madhusree-1/Coding/tree/master/2058-concatenation-of-array) |
@@ -307,6 +309,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/madhusree-1/Coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/madhusree-1/Coding/tree/master/0073-set-matrix-zeroes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
