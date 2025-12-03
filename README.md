@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/madhusree-1/Coding/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/madhusree-1/Coding/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/madhusree-1/Coding/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/madhusree-1/Coding/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/madhusree-1/Coding/tree/master/2058-concatenation-of-array) |
@@ -226,6 +227,7 @@
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhusree-1/Coding/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/madhusree-1/Coding/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/madhusree-1/Coding/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/madhusree-1/Coding/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/madhusree-1/Coding/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/madhusree-1/Coding/tree/master/0830-largest-triangle-area) |
@@ -292,6 +294,7 @@
 | [0020-valid-parentheses](https://github.com/madhusree-1/Coding/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/madhusree-1/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/madhusree-1/Coding/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/madhusree-1/Coding/tree/master/0443-string-compression) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/madhusree-1/Coding/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0692-top-k-frequent-words](https://github.com/madhusree-1/Coding/tree/master/0692-top-k-frequent-words) |
