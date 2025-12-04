@@ -33,6 +33,7 @@
 | [0287-find-the-duplicate-number](https://github.com/madhusree-1/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/madhusree-1/Coding/tree/master/0416-partition-equal-subset-sum) |
+| [0495-teemo-attacking](https://github.com/madhusree-1/Coding/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/madhusree-1/Coding/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/madhusree-1/Coding/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/madhusree-1/Coding/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/madhusree-1/Coding/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/madhusree-1/Coding/tree/master/2048-build-array-from-permutation) |
