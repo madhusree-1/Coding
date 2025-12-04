@@ -60,6 +60,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/madhusree-1/Coding/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
+| [1646-get-maximum-in-generated-array](https://github.com/madhusree-1/Coding/tree/master/1646-get-maximum-in-generated-array) |
 | [1656-count-good-triplets](https://github.com/madhusree-1/Coding/tree/master/1656-count-good-triplets) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/madhusree-1/Coding/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
@@ -173,6 +174,7 @@
 | [0412-fizz-buzz](https://github.com/madhusree-1/Coding/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/madhusree-1/Coding/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
+| [1646-get-maximum-in-generated-array](https://github.com/madhusree-1/Coding/tree/master/1646-get-maximum-in-generated-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/madhusree-1/Coding/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/madhusree-1/Coding/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/madhusree-1/Coding/tree/master/2058-concatenation-of-array) |
