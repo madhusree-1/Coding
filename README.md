@@ -83,6 +83,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhusree-1/Coding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/madhusree-1/Coding/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhusree-1/Coding/tree/master/2442-number-of-arithmetic-triplets) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhusree-1/Coding/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhusree-1/Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhusree-1/Coding/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/madhusree-1/Coding/tree/master/2551-apply-operations-to-an-array) |
@@ -185,6 +186,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/madhusree-1/Coding/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhusree-1/Coding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhusree-1/Coding/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2551-apply-operations-to-an-array](https://github.com/madhusree-1/Coding/tree/master/2551-apply-operations-to-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/madhusree-1/Coding/tree/master/2679-count-distinct-numbers-on-board) |
 | [3226-minimum-number-game](https://github.com/madhusree-1/Coding/tree/master/3226-minimum-number-game) |
@@ -323,6 +325,7 @@
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhusree-1/Coding/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/madhusree-1/Coding/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhusree-1/Coding/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
