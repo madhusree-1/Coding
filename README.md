@@ -45,6 +45,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhusree-1/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/madhusree-1/Coding/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/madhusree-1/Coding/tree/master/0909-stone-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/madhusree-1/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-maximum-sum-circular-subarray](https://github.com/madhusree-1/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhusree-1/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -175,6 +176,7 @@
 | [0412-fizz-buzz](https://github.com/madhusree-1/Coding/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/madhusree-1/Coding/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/madhusree-1/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1646-get-maximum-in-generated-array](https://github.com/madhusree-1/Coding/tree/master/1646-get-maximum-in-generated-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/madhusree-1/Coding/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/madhusree-1/Coding/tree/master/2048-build-array-from-permutation) |
@@ -339,6 +341,7 @@
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/madhusree-1/Coding/tree/master/0692-top-k-frequent-words) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/madhusree-1/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -584,6 +587,7 @@
 ## Queue
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/madhusree-1/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-maximum-sum-circular-subarray](https://github.com/madhusree-1/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
