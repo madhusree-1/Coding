@@ -528,6 +528,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/madhusree-1/Coding/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/madhusree-1/Coding/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhusree-1/Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0145-binary-tree-postorder-traversal) |
@@ -539,6 +540,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/madhusree-1/Coding/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/madhusree-1/Coding/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -546,6 +548,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/madhusree-1/Coding/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/madhusree-1/Coding/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhusree-1/Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0145-binary-tree-postorder-traversal) |
@@ -614,4 +617,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhusree-1/Coding/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/madhusree-1/Coding/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
