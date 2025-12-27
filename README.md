@@ -97,6 +97,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/madhusree-1/Coding/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/madhusree-1/Coding/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhusree-1/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/madhusree-1/Coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/madhusree-1/Coding/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/madhusree-1/Coding/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/madhusree-1/Coding/tree/master/3221-find-the-peaks) |
@@ -358,6 +359,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/madhusree-1/Coding/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/madhusree-1/Coding/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/madhusree-1/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/madhusree-1/Coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3226-minimum-number-game](https://github.com/madhusree-1/Coding/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhusree-1/Coding/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/madhusree-1/Coding/tree/master/3321-type-of-triangle) |
@@ -440,6 +442,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/madhusree-1/Coding/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhusree-1/Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/madhusree-1/Coding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/madhusree-1/Coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhusree-1/Coding/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting Sort
 |  |
