@@ -38,6 +38,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/madhusree-1/Coding/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/madhusree-1/Coding/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/madhusree-1/Coding/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/madhusree-1/Coding/tree/master/0792-binary-search) |
@@ -177,6 +178,7 @@
 | [0412-fizz-buzz](https://github.com/madhusree-1/Coding/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/madhusree-1/Coding/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/madhusree-1/Coding/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/madhusree-1/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1646-get-maximum-in-generated-array](https://github.com/madhusree-1/Coding/tree/master/1646-get-maximum-in-generated-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/madhusree-1/Coding/tree/master/1806-count-of-matches-in-tournament) |
@@ -509,6 +511,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/madhusree-1/Coding/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/madhusree-1/Coding/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhusree-1/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/madhusree-1/Coding/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
