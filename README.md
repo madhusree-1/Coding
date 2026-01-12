@@ -52,6 +52,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhusree-1/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/madhusree-1/Coding/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
+| [1266-minimum-time-visiting-all-points](https://github.com/madhusree-1/Coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/madhusree-1/Coding/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhusree-1/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madhusree-1/Coding/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -246,6 +247,7 @@
 | [0830-largest-triangle-area](https://github.com/madhusree-1/Coding/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/madhusree-1/Coding/tree/master/0909-stone-game) |
 | [1086-divisor-game](https://github.com/madhusree-1/Coding/tree/master/1086-divisor-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/madhusree-1/Coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhusree-1/Coding/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhusree-1/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -628,6 +630,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/madhusree-1/Coding/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/madhusree-1/Coding/tree/master/1266-minimum-time-visiting-all-points) |
 ## Brainteaser
 |  |
 | ------- |
