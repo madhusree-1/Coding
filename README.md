@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhusree-1/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/madhusree-1/Coding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/madhusree-1/Coding/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madhusree-1/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/madhusree-1/Coding/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/madhusree-1/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -237,6 +238,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhusree-1/Coding/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/madhusree-1/Coding/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madhusree-1/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/madhusree-1/Coding/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhusree-1/Coding/tree/master/0292-nim-game) |
@@ -511,6 +513,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madhusree-1/Coding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/madhusree-1/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/madhusree-1/Coding/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/madhusree-1/Coding/tree/master/0682-baseball-game) |
