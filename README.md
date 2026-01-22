@@ -113,6 +113,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhusree-1/Coding/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhusree-1/Coding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhusree-1/Coding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/madhusree-1/Coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/madhusree-1/Coding/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/madhusree-1/Coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhusree-1/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -198,6 +199,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/madhusree-1/Coding/tree/master/2679-count-distinct-numbers-on-board) |
 | [3226-minimum-number-game](https://github.com/madhusree-1/Coding/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/madhusree-1/Coding/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/madhusree-1/Coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/madhusree-1/Coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -230,6 +232,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhusree-1/Coding/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhusree-1/Coding/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhusree-1/Coding/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/madhusree-1/Coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhusree-1/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhusree-1/Coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhusree-1/Coding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -403,6 +406,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/madhusree-1/Coding/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/madhusree-1/Coding/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/madhusree-1/Coding/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/madhusree-1/Coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -467,6 +471,7 @@
 | [1127-last-stone-weight](https://github.com/madhusree-1/Coding/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/madhusree-1/Coding/tree/master/3226-minimum-number-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/madhusree-1/Coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/madhusree-1/Coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
@@ -653,4 +658,12 @@
 | [0100-same-tree](https://github.com/madhusree-1/Coding/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhusree-1/Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/madhusree-1/Coding/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/madhusree-1/Coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/madhusree-1/Coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
