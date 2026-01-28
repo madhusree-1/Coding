@@ -216,6 +216,7 @@
 | [0692-top-k-frequent-words](https://github.com/madhusree-1/Coding/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/madhusree-1/Coding/tree/master/0697-degree-of-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/madhusree-1/Coding/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/madhusree-1/Coding/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/madhusree-1/Coding/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -319,6 +320,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/madhusree-1/Coding/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0692-top-k-frequent-words](https://github.com/madhusree-1/Coding/tree/master/0692-top-k-frequent-words) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhusree-1/Coding/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/madhusree-1/Coding/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhusree-1/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhusree-1/Coding/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/madhusree-1/Coding/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -611,6 +613,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhusree-1/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/madhusree-1/Coding/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madhusree-1/Coding/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/madhusree-1/Coding/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Database
