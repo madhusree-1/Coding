@@ -73,6 +73,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/madhusree-1/Coding/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/madhusree-1/Coding/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/madhusree-1/Coding/tree/master/2058-concatenation-of-array) |
+| [2090-k-radius-subarray-averages](https://github.com/madhusree-1/Coding/tree/master/2090-k-radius-subarray-averages) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhusree-1/Coding/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/madhusree-1/Coding/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/madhusree-1/Coding/tree/master/2122-count-special-quadruplets) |
@@ -619,6 +620,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/madhusree-1/Coding/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madhusree-1/Coding/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/madhusree-1/Coding/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2090-k-radius-subarray-averages](https://github.com/madhusree-1/Coding/tree/master/2090-k-radius-subarray-averages) |
 ## Database
 |  |
 | ------- |
