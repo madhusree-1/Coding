@@ -55,6 +55,7 @@
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/madhusree-1/Coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/madhusree-1/Coding/tree/master/1293-three-consecutive-odds) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madhusree-1/Coding/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhusree-1/Coding/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madhusree-1/Coding/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -618,6 +619,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhusree-1/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhusree-1/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/madhusree-1/Coding/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madhusree-1/Coding/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madhusree-1/Coding/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/madhusree-1/Coding/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/madhusree-1/Coding/tree/master/2090-k-radius-subarray-averages) |
