@@ -153,6 +153,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/madhusree-1/Coding/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/madhusree-1/Coding/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/madhusree-1/Coding/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2396-strictly-palindromic-number](https://github.com/madhusree-1/Coding/tree/master/2396-strictly-palindromic-number) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhusree-1/Coding/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhusree-1/Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhusree-1/Coding/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -277,6 +278,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/madhusree-1/Coding/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/madhusree-1/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhusree-1/Coding/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/madhusree-1/Coding/tree/master/2396-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/madhusree-1/Coding/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/madhusree-1/Coding/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/madhusree-1/Coding/tree/master/2571-find-the-pivot-integer) |
@@ -665,6 +667,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/madhusree-1/Coding/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/madhusree-1/Coding/tree/master/1086-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/madhusree-1/Coding/tree/master/2396-strictly-palindromic-number) |
 ## Trie
 |  |
 | ------- |
