@@ -55,6 +55,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/madhusree-1/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-maximum-sum-circular-subarray](https://github.com/madhusree-1/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/madhusree-1/Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhusree-1/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/madhusree-1/Coding/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
@@ -180,6 +181,7 @@
 | [0792-binary-search](https://github.com/madhusree-1/Coding/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhusree-1/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/madhusree-1/Coding/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/madhusree-1/Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/madhusree-1/Coding/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/madhusree-1/Coding/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -513,6 +515,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/madhusree-1/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/madhusree-1/Coding/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/madhusree-1/Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhusree-1/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2571-find-the-pivot-integer](https://github.com/madhusree-1/Coding/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/madhusree-1/Coding/tree/master/2714-left-and-right-sum-differences) |
@@ -637,6 +640,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/madhusree-1/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/madhusree-1/Coding/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/madhusree-1/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/madhusree-1/Coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/madhusree-1/Coding/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madhusree-1/Coding/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madhusree-1/Coding/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
