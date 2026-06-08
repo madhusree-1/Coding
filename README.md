@@ -39,6 +39,7 @@
 | [0287-find-the-duplicate-number](https://github.com/madhusree-1/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/madhusree-1/Coding/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/madhusree-1/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0495-teemo-attacking](https://github.com/madhusree-1/Coding/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0540-single-element-in-a-sorted-array) |
@@ -372,6 +373,7 @@
 | [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/madhusree-1/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/madhusree-1/Coding/tree/master/0692-top-k-frequent-words) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/madhusree-1/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -466,6 +468,7 @@
 | [0011-container-with-most-water](https://github.com/madhusree-1/Coding/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/madhusree-1/Coding/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/madhusree-1/Coding/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/madhusree-1/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhusree-1/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/madhusree-1/Coding/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -535,6 +538,7 @@
 | [0152-maximum-product-subarray](https://github.com/madhusree-1/Coding/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/madhusree-1/Coding/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/madhusree-1/Coding/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/madhusree-1/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/madhusree-1/Coding/tree/master/0509-fibonacci-number) |
 | [0909-stone-game](https://github.com/madhusree-1/Coding/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/madhusree-1/Coding/tree/master/0954-maximum-sum-circular-subarray) |
