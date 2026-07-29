@@ -351,6 +351,7 @@
 | [3379-score-of-a-string](https://github.com/madhusree-1/Coding/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/madhusree-1/Coding/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhusree-1/Coding/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/madhusree-1/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhusree-1/Coding/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
@@ -398,6 +399,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhusree-1/Coding/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/madhusree-1/Coding/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhusree-1/Coding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/madhusree-1/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3778-transform-array-by-parity](https://github.com/madhusree-1/Coding/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
@@ -489,6 +491,7 @@
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/madhusree-1/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/madhusree-1/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
