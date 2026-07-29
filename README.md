@@ -405,6 +405,7 @@
 | [0029-divide-two-integers](https://github.com/madhusree-1/Coding/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/madhusree-1/Coding/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/madhusree-1/Coding/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/madhusree-1/Coding/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhusree-1/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/madhusree-1/Coding/tree/master/0371-sum-of-two-integers) |
@@ -507,6 +508,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/madhusree-1/Coding/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/madhusree-1/Coding/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhusree-1/Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/madhusree-1/Coding/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhusree-1/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/madhusree-1/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/madhusree-1/Coding/tree/master/0954-maximum-sum-circular-subarray) |
