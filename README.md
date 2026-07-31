@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/madhusree-1/Coding/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/madhusree-1/Coding/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/madhusree-1/Coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madhusree-1/Coding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/madhusree-1/Coding/tree/master/0055-jump-game) |
@@ -684,6 +685,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/madhusree-1/Coding/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/madhusree-1/Coding/tree/master/0078-subsets) |
 ## Geometry
 |  |
