@@ -49,6 +49,7 @@
 | [0682-baseball-game](https://github.com/madhusree-1/Coding/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/madhusree-1/Coding/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/madhusree-1/Coding/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/madhusree-1/Coding/tree/master/0705-design-hashset) |
 | [0792-binary-search](https://github.com/madhusree-1/Coding/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/madhusree-1/Coding/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhusree-1/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -232,6 +233,7 @@
 | [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/madhusree-1/Coding/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/madhusree-1/Coding/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/madhusree-1/Coding/tree/master/0705-design-hashset) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/madhusree-1/Coding/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/madhusree-1/Coding/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/madhusree-1/Coding/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -429,6 +431,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/madhusree-1/Coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/madhusree-1/Coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhusree-1/Coding/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/madhusree-1/Coding/tree/master/0705-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/madhusree-1/Coding/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhusree-1/Coding/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/madhusree-1/Coding/tree/master/1765-merge-in-between-linked-lists) |
@@ -647,6 +650,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/madhusree-1/Coding/tree/master/0155-min-stack) |
+| [0705-design-hashset](https://github.com/madhusree-1/Coding/tree/master/0705-design-hashset) |
 ## Sliding Window
 |  |
 | ------- |
@@ -724,4 +728,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/madhusree-1/Coding/tree/master/0509-fibonacci-number) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/madhusree-1/Coding/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
