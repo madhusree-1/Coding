@@ -261,6 +261,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhusree-1/Coding/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/madhusree-1/Coding/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/madhusree-1/Coding/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhusree-1/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/madhusree-1/Coding/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
@@ -409,6 +410,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/madhusree-1/Coding/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/madhusree-1/Coding/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/madhusree-1/Coding/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/madhusree-1/Coding/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/madhusree-1/Coding/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
@@ -691,6 +693,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/madhusree-1/Coding/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/madhusree-1/Coding/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/madhusree-1/Coding/tree/master/0089-gray-code) |
 ## Geometry
 |  |
 | ------- |
