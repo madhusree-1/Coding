@@ -352,6 +352,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhusree-1/Coding/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/madhusree-1/Coding/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/madhusree-1/Coding/tree/master/3194-find-words-containing-character) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/madhusree-1/Coding/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3379-score-of-a-string](https://github.com/madhusree-1/Coding/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/madhusree-1/Coding/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhusree-1/Coding/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -419,6 +420,7 @@
 | [0371-sum-of-two-integers](https://github.com/madhusree-1/Coding/tree/master/0371-sum-of-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/madhusree-1/Coding/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/madhusree-1/Coding/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/madhusree-1/Coding/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
@@ -694,6 +696,7 @@
 | [0051-n-queens](https://github.com/madhusree-1/Coding/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/madhusree-1/Coding/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/madhusree-1/Coding/tree/master/0089-gray-code) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/madhusree-1/Coding/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Geometry
 |  |
 | ------- |
