@@ -78,6 +78,7 @@
 | [1646-get-maximum-in-generated-array](https://github.com/madhusree-1/Coding/tree/master/1646-get-maximum-in-generated-array) |
 | [1656-count-good-triplets](https://github.com/madhusree-1/Coding/tree/master/1656-count-good-triplets) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/madhusree-1/Coding/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1720-decode-xored-array](https://github.com/madhusree-1/Coding/tree/master/1720-decode-xored-array) |
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhusree-1/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/madhusree-1/Coding/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -421,6 +422,7 @@
 | [0371-sum-of-two-integers](https://github.com/madhusree-1/Coding/tree/master/0371-sum-of-two-integers) |
 | [1310-xor-queries-of-a-subarray](https://github.com/madhusree-1/Coding/tree/master/1310-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1720-decode-xored-array](https://github.com/madhusree-1/Coding/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/madhusree-1/Coding/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/madhusree-1/Coding/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
