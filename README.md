@@ -419,6 +419,7 @@
 | [0338-counting-bits](https://github.com/madhusree-1/Coding/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/madhusree-1/Coding/tree/master/0371-sum-of-two-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/madhusree-1/Coding/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/madhusree-1/Coding/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/madhusree-1/Coding/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
