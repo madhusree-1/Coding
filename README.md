@@ -80,6 +80,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/madhusree-1/Coding/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1720-decode-xored-array](https://github.com/madhusree-1/Coding/tree/master/1720-decode-xored-array) |
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/madhusree-1/Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/madhusree-1/Coding/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/madhusree-1/Coding/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/madhusree-1/Coding/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -285,6 +286,7 @@
 | [1635-number-of-good-pairs](https://github.com/madhusree-1/Coding/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/madhusree-1/Coding/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1806-count-of-matches-in-tournament](https://github.com/madhusree-1/Coding/tree/master/1806-count-of-matches-in-tournament) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/madhusree-1/Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/madhusree-1/Coding/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/madhusree-1/Coding/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/madhusree-1/Coding/tree/master/2083-three-divisors) |
@@ -423,6 +425,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/madhusree-1/Coding/tree/master/1310-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhusree-1/Coding/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1720-decode-xored-array](https://github.com/madhusree-1/Coding/tree/master/1720-decode-xored-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/madhusree-1/Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/madhusree-1/Coding/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/madhusree-1/Coding/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -473,6 +476,7 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/madhusree-1/Coding/tree/master/1656-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/madhusree-1/Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/madhusree-1/Coding/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/madhusree-1/Coding/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhusree-1/Coding/tree/master/2442-number-of-arithmetic-triplets) |
@@ -654,6 +658,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/madhusree-1/Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhusree-1/Coding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/madhusree-1/Coding/tree/master/3201-distribute-candies-among-children-ii) |
 ## Design
@@ -702,6 +707,7 @@
 | [0051-n-queens](https://github.com/madhusree-1/Coding/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/madhusree-1/Coding/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/madhusree-1/Coding/tree/master/0089-gray-code) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/madhusree-1/Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/madhusree-1/Coding/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Geometry
 |  |
