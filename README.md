@@ -627,6 +627,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/madhusree-1/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/madhusree-1/Coding/tree/master/0938-range-sum-of-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/madhusree-1/Coding/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/madhusree-1/Coding/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -734,6 +735,7 @@
 | [0100-same-tree](https://github.com/madhusree-1/Coding/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhusree-1/Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/madhusree-1/Coding/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/madhusree-1/Coding/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -750,4 +752,12 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/madhusree-1/Coding/tree/master/0705-design-hashset) |
+## Union-Find
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/madhusree-1/Coding/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/madhusree-1/Coding/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
