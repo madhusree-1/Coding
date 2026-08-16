@@ -418,6 +418,7 @@
 | [0089-gray-code](https://github.com/madhusree-1/Coding/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/madhusree-1/Coding/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/madhusree-1/Coding/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/madhusree-1/Coding/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/madhusree-1/Coding/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/madhusree-1/Coding/tree/master/0338-counting-bits) |
