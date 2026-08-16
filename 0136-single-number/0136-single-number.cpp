@@ -2,14 +2,10 @@ class Solution {
 public:
 
     int singleNumber(vector<int>& nums) {
-       map<int,int>freq;
-       int n=nums.size();
-        for(int i:nums){
-        freq[i]++;
+        int res = nums[0];
+       for(int i=1;i<nums.size();i++){
+            res^=nums[i];
        }
-       for( auto &entry:freq){
-        if(entry.second==1) return entry.first;
-       }
-       return -1;
+       return res;
     }
 };
