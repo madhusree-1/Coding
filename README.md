@@ -104,6 +104,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/madhusree-1/Coding/tree/master/2442-number-of-arithmetic-triplets) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhusree-1/Coding/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhusree-1/Coding/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhusree-1/Coding/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/madhusree-1/Coding/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhusree-1/Coding/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -249,6 +250,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/madhusree-1/Coding/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhusree-1/Coding/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/madhusree-1/Coding/tree/master/2442-number-of-arithmetic-triplets) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/madhusree-1/Coding/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2679-count-distinct-numbers-on-board](https://github.com/madhusree-1/Coding/tree/master/2679-count-distinct-numbers-on-board) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/madhusree-1/Coding/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -300,6 +302,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhusree-1/Coding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/madhusree-1/Coding/tree/master/2396-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/madhusree-1/Coding/tree/master/2507-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2556-convert-the-temperature](https://github.com/madhusree-1/Coding/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/madhusree-1/Coding/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/madhusree-1/Coding/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -474,6 +477,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhusree-1/Coding/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/madhusree-1/Coding/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2507-number-of-common-factors](https://github.com/madhusree-1/Coding/tree/master/2507-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/madhusree-1/Coding/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/madhusree-1/Coding/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Enumeration
@@ -768,8 +772,26 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhusree-1/Coding/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhusree-1/Coding/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Primality Test
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sieve Theory
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
