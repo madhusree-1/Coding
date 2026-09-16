@@ -129,6 +129,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhusree-1/Coding/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhusree-1/Coding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhusree-1/Coding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhusree-1/Coding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/madhusree-1/Coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/madhusree-1/Coding/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/madhusree-1/Coding/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -258,6 +259,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhusree-1/Coding/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/madhusree-1/Coding/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhusree-1/Coding/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhusree-1/Coding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/madhusree-1/Coding/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhusree-1/Coding/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhusree-1/Coding/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -468,6 +470,7 @@
 | [0206-reverse-linked-list](https://github.com/madhusree-1/Coding/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/madhusree-1/Coding/tree/master/0509-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/madhusree-1/Coding/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhusree-1/Coding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/madhusree-1/Coding/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Number Theory
 |  |
@@ -491,6 +494,7 @@
 | [2507-number-of-common-factors](https://github.com/madhusree-1/Coding/tree/master/2507-number-of-common-factors) |
 | [3201-distribute-candies-among-children-ii](https://github.com/madhusree-1/Coding/tree/master/3201-distribute-candies-among-children-ii) |
 | [3221-find-the-peaks](https://github.com/madhusree-1/Coding/tree/master/3221-find-the-peaks) |
+| [3483-unique-3-digit-even-numbers](https://github.com/madhusree-1/Coding/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
