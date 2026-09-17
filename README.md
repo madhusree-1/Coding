@@ -31,6 +31,7 @@
 | [0162-find-peak-element](https://github.com/madhusree-1/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/madhusree-1/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/madhusree-1/Coding/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/madhusree-1/Coding/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhusree-1/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhusree-1/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/madhusree-1/Coding/tree/master/0238-product-of-array-except-self) |
@@ -272,6 +273,7 @@
 | [0089-gray-code](https://github.com/madhusree-1/Coding/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhusree-1/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/madhusree-1/Coding/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/madhusree-1/Coding/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhusree-1/Coding/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/madhusree-1/Coding/tree/master/0371-sum-of-two-integers) |
@@ -475,6 +477,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhusree-1/Coding/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/madhusree-1/Coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/madhusree-1/Coding/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/madhusree-1/Coding/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -486,6 +489,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhusree-1/Coding/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/madhusree-1/Coding/tree/master/1656-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhusree-1/Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/madhusree-1/Coding/tree/master/2083-three-divisors) |
@@ -789,13 +793,16 @@
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhusree-1/Coding/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhusree-1/Coding/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/madhusree-1/Coding/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
