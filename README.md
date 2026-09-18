@@ -126,6 +126,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhusree-1/Coding/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/madhusree-1/Coding/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/madhusree-1/Coding/tree/master/3321-type-of-triangle) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/madhusree-1/Coding/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/madhusree-1/Coding/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/madhusree-1/Coding/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/madhusree-1/Coding/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -319,6 +320,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/madhusree-1/Coding/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/madhusree-1/Coding/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/madhusree-1/Coding/tree/master/3321-type-of-triangle) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/madhusree-1/Coding/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3336-water-bottles-ii](https://github.com/madhusree-1/Coding/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/madhusree-1/Coding/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/madhusree-1/Coding/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -486,6 +488,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/madhusree-1/Coding/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/madhusree-1/Coding/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/madhusree-1/Coding/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Enumeration
 |  |
 | ------- |
@@ -518,6 +521,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/madhusree-1/Coding/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/madhusree-1/Coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/madhusree-1/Coding/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/madhusree-1/Coding/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Counting Sort
 |  |
 | ------- |
