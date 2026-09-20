@@ -63,6 +63,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhusree-1/Coding/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/madhusree-1/Coding/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/madhusree-1/Coding/tree/master/1137-height-checker) |
+| [1260-shift-2d-grid](https://github.com/madhusree-1/Coding/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/madhusree-1/Coding/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/madhusree-1/Coding/tree/master/1293-three-consecutive-odds) |
 | [1310-xor-queries-of-a-subarray](https://github.com/madhusree-1/Coding/tree/master/1310-xor-queries-of-a-subarray) |
@@ -208,6 +209,7 @@
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/madhusree-1/Coding/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/madhusree-1/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1260-shift-2d-grid](https://github.com/madhusree-1/Coding/tree/master/1260-shift-2d-grid) |
 | [1646-get-maximum-in-generated-array](https://github.com/madhusree-1/Coding/tree/master/1646-get-maximum-in-generated-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/madhusree-1/Coding/tree/master/1806-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/madhusree-1/Coding/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -382,6 +384,7 @@
 | [0054-spiral-matrix](https://github.com/madhusree-1/Coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/madhusree-1/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
+| [1260-shift-2d-grid](https://github.com/madhusree-1/Coding/tree/master/1260-shift-2d-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/madhusree-1/Coding/tree/master/1791-richest-customer-wealth) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/madhusree-1/Coding/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
