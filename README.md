@@ -44,6 +44,7 @@
 | [0435-non-overlapping-intervals](https://github.com/madhusree-1/Coding/tree/master/0435-non-overlapping-intervals) |
 | [0495-teemo-attacking](https://github.com/madhusree-1/Coding/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/madhusree-1/Coding/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/madhusree-1/Coding/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/madhusree-1/Coding/tree/master/0621-task-scheduler) |
@@ -206,6 +207,7 @@
 | [0054-spiral-matrix](https://github.com/madhusree-1/Coding/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/madhusree-1/Coding/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/madhusree-1/Coding/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/madhusree-1/Coding/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/madhusree-1/Coding/tree/master/0682-baseball-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/madhusree-1/Coding/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -385,6 +387,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/madhusree-1/Coding/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/madhusree-1/Coding/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/madhusree-1/Coding/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/madhusree-1/Coding/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/madhusree-1/Coding/tree/master/1260-shift-2d-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/madhusree-1/Coding/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
