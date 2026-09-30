@@ -282,6 +282,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/madhusree-1/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/madhusree-1/Coding/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/madhusree-1/Coding/tree/master/0204-count-primes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhusree-1/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/madhusree-1/Coding/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhusree-1/Coding/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/madhusree-1/Coding/tree/master/0371-sum-of-two-integers) |
@@ -360,6 +361,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhusree-1/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/madhusree-1/Coding/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/madhusree-1/Coding/tree/master/0151-reverse-words-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhusree-1/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/madhusree-1/Coding/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/madhusree-1/Coding/tree/master/0424-longest-repeating-character-replacement) |
@@ -483,6 +485,7 @@
 | [0050-powx-n](https://github.com/madhusree-1/Coding/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/madhusree-1/Coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/madhusree-1/Coding/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhusree-1/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/madhusree-1/Coding/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/madhusree-1/Coding/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/madhusree-1/Coding/tree/master/2050-count-good-numbers) |
@@ -593,6 +596,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madhusree-1/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/madhusree-1/Coding/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/madhusree-1/Coding/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhusree-1/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/madhusree-1/Coding/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/madhusree-1/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/madhusree-1/Coding/tree/master/0435-non-overlapping-intervals) |
@@ -781,6 +785,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhusree-1/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/madhusree-1/Coding/tree/master/0509-fibonacci-number) |
 ## Hash Function
 |  |
@@ -823,4 +828,8 @@
 | ------- |
 | [0204-count-primes](https://github.com/madhusree-1/Coding/tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/madhusree-1/Coding/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/madhusree-1/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
