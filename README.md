@@ -832,4 +832,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhusree-1/Coding/tree/master/0241-different-ways-to-add-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/madhusree-1/Coding/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
