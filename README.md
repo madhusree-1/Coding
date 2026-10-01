@@ -744,6 +744,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhusree-1/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/madhusree-1/Coding/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/madhusree-1/Coding/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/madhusree-1/Coding/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/madhusree-1/Coding/tree/master/0089-gray-code) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/madhusree-1/Coding/tree/master/1863-sum-of-all-subset-xor-totals) |
