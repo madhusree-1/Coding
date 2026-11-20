@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/madhusree-1/Coding/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/madhusree-1/Coding/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/madhusree-1/Coding/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/madhusree-1/Coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madhusree-1/Coding/tree/master/0054-spiral-matrix) |
@@ -236,6 +237,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhusree-1/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhusree-1/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/madhusree-1/Coding/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/madhusree-1/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/madhusree-1/Coding/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/madhusree-1/Coding/tree/master/0160-intersection-of-two-linked-lists) |
@@ -360,6 +362,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhusree-1/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhusree-1/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/madhusree-1/Coding/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/madhusree-1/Coding/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/madhusree-1/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhusree-1/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/madhusree-1/Coding/tree/master/0242-valid-anagram) |
@@ -401,6 +404,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/madhusree-1/Coding/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/madhusree-1/Coding/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/madhusree-1/Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/madhusree-1/Coding/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhusree-1/Coding/tree/master/0215-kth-largest-element-in-an-array) |
